@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-  printf("H");
+  printf("Hellow World");
   printf("Firtst GitHub Training");
   return 0;
 }
